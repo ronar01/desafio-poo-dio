@@ -3,7 +3,7 @@ O desafio tem como objetivo, exercitar umas das principais ferramentas da OO: ab
 PRÉ-REQUISITOS
 Conhecer a sintaxe da Java
 Java JDK 11
-IDE para desenvolvimento Java (usarei IntelliJ
+IDE para desenvolvimento Java (usarei IntelliJ)
 Git
 Conta no GitHub
 Passo-a-Passo
